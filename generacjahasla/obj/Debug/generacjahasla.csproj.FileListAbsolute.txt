@@ -1,0 +1,10 @@
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\bin\Debug\generacjahasla.exe.config
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\bin\Debug\generacjahasla.exe
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\bin\Debug\generacjahasla.pdb
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.csproj.AssemblyReference.cache
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.Form1.resources
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.Properties.Resources.resources
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.csproj.GenerateResource.cache
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.csproj.CoreCompileInputs.cache
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.exe
+C:\Users\4m\source\repos\generacjahasla\generacjahasla\obj\Debug\generacjahasla.pdb
